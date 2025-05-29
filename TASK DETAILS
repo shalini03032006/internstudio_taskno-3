@@ -1,0 +1,7 @@
+HTML: Structure the calculator with buttons for numbers, operations, and control keys (C, ⌫, =).
+
+CSS: Style the calculator with a clean layout, colors, and responsive design.
+
+JavaScript: Implement the logic for arithmetic operations, input handling, and result display.
+
+Add keyboard support and handle decimal inputs.
